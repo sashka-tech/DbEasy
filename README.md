@@ -1,4 +1,4 @@
-# DbEasy
+# Qt PostgreSQL 
 
 This is a base program to connect to PostgreSQL database by using QPSQL driver with the ability to view and edit table cell values (**Qt/C++, Linux**).
 
